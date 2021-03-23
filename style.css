@@ -1,0 +1,12 @@
+.imgresize{
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgCenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
